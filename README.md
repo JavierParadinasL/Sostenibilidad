@@ -75,6 +75,6 @@ El presente documento aborda los principales retos ambientales y sociales a los 
 ---
 
 ## Conclusión
-La caracterización de los retos ambientales y sociales evidencia la necesidad de una acción integrada entre sociedad, sectores productivos y gobiernos. Adoptar medidas sostenibles no solo protege al medio ambiente, sino que también garantiza el bienestar de las personas y la competitividad de los sectores productivos en el largo plazo. 
+La caracterización de los retos ambientales y sociales evidencia la necesidad de una acción integrada entre sociedad, sectores productivos y gobiernos. Adoptar medidas sostenibles no solo protege al medio ambiente, sino que también garantiza el bienestar de las personas y la competitividad de los sectores productivos en el largo plazo. Esto es un combio significativo
 
 ---
